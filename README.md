@@ -22,6 +22,8 @@ Hospital/Pharmacy Page
 The page where an admin manages the list of hospitals and pharmacies.
 Accounts Page
 The page where the system users are listed and managed.
+
+
 Customer/Client
 Medicine Check Page
 The page where can customer search for a medical product that they need.
